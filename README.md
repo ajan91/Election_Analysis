@@ -23,10 +23,10 @@ The analysis illustrated the following:
     
 The results can be further shown by the following images:
 Image 1. 
-![](Resources/photo1.png)
+![](Resources/Photo1.png)
 
 Image 2. 
-![](Resources/photo2.png)
+![](Resources/Photo2.png)
     
 # Election-Audit Summary
 
